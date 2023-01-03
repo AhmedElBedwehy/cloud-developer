@@ -48,5 +48,6 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
 ### Project Solution Links
-https://github.com/AhmedElBedwehy/cloud-developer/edit/master/course-02/project/image-filter-starter-code/
-http://bedwehy-project-dev.us-east-1.elasticbeanstalk.com/
+1.https://github.com/AhmedElBedwehy/cloud-developer/edit/master/course-02/project/image-filter-starter-code/
+
+2.http://bedwehy-project-dev.us-east-1.elasticbeanstalk.com/
